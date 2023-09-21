@@ -1,0 +1,3 @@
+username: SuperU
+email: super@user.com
+password: UareSuper!
